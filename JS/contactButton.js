@@ -46,14 +46,14 @@ function hide() {
     contactIcon.classList.add("showIcon");
 }
 firstPlatform.addEventListener('click',()=>{
-    window.open("https://twitter.com/manvar_prit");
+    window.open("https://www.instagram.com/_.haridev__/");
 });
 secondPlatform.addEventListener('click',()=>{
-    window.open("mailto:pritmanvar1109@gmail.com");
+    window.open("mailto:haridevpnarayananivas@gmail.com");
 });
 thirdPlatform.addEventListener('click',()=>{
-    window.open("https://github.com/pritmanvar");
+    window.open("https://github.com/haridevp");
 });
 fourthPlatform.addEventListener('click',()=>{
-    window.open("https://www.linkedin.com/in/prit-manvar-36ab97204/");
+    window.open("https://www.linkedin.com/in/haridevp/");
 });
